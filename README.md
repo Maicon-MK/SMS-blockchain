@@ -11,7 +11,7 @@ Este é um projeto simples de implementação de uma blockchain em Python utiliz
 
 1. Clone o repositório:
     ```bash
-    [git clone https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/Maicon-MK/SMS-blockchain)
+    [git clone (https://github.com/Maicon-MK/SMS-blockchain)
     cd Modulo 1 - Criar Blockchain
     ```
 
